@@ -3,8 +3,9 @@
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/Django-7FFFD4?style=for-the-badge&logo=Django&logoColor=6A5ACD"/><img src="https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/SQL-F0E68C?style=for-the-badge&logo=MYSQL&logoColor=black"/><img src="https://img.shields.io/badge/PostgreSQL-008B8B?style=for-the-badge&logo=PostgreSQL&logoColor=black"/><img src="https://img.shields.io/badge/Docker-0000CD?style=for-the-badge&logo=Docker-008B8B&logoColor=black"/><img src="https://img.shields.io/badge/1C-yellow?style=for-the-badge&logo=1C-black&logoColor=black"/>
 <HR>
 
+- Стараюсь придерживаться темпа один коммит в сутки ⚡
 - 🔭 Сейчас работаю над пет-проектом [kitmetiz](https://github.com/Demiat/kitmetiz)
-- ⚡ Ищу работу
+- 💬 Ищу работу
 
 <!--
 **Demiat/Demiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
