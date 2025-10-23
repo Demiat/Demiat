@@ -8,5 +8,3 @@
 ЗАДЕПЛОЕНЫЕ ПРОЕКТЫ:
 1) Телеграм-бот, рабочий прототип @DemmiatBot
 2) Сайт рецептов: https://dvm.zapto.org
-
-[![Demiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demiat&show_icons=true&theme=gruvbox&show_owner=false)](https://github.com/Demiat/github-readme-stats)
