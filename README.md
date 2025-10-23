@@ -9,4 +9,4 @@
 1) Телеграм-бот, рабочий прототип @DemmiatBot
 2) Сайт рецептов: https://dvm.zapto.org
 
-[![Demiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demiat&show_icons=true)](https://github.com/Demiat/github-readme-stats)
+[![Demiat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demiat&show_icons=true&theme=gruvbox)](https://github.com/Demiat/github-readme-stats)
