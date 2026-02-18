@@ -11,4 +11,4 @@
 ВЫПОЛНЕННЫЕ ТРЕНИРОВОЧНЫЕ ПРОЕКТЫ:
 1) Синхронный Телеграм-бот, рабочий прототип @DemmiatBot (https://github.com/Demiat/commtobot)
 2) Сайт рецептов на Django c хорошо проработанной админкой: https://dvm.zapto.org (https://github.com/Demiat/foodgram)
-3) Асинхронный Телеграм-бот, который переводит запросы естественного языка в SQL для базы данных (git@github.com:Demiat/quest_to_sql.git)
+3) Асинхронный Телеграм-бот, который переводит запросы естественного языка в SQL для базы данных (https://github.com/Demiat/quest_to_sql.git)
