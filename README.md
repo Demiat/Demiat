@@ -9,6 +9,9 @@
 - 🔭 Сейчас осваиваю FastAPI, aiohttp, websocket и вообще уровень сокетов
 
 ВЫПОЛНЕННЫЕ ТРЕНИРОВОЧНЫЕ ПРОЕКТЫ:
-1) Синхронный Телеграм-бот, рабочий прототип @DemmiatBot (https://github.com/Demiat/commtobot)
-2) Сайт рецептов на Django c хорошо проработанной админкой: https://dvm.zapto.org (https://github.com/Demiat/foodgram)
-3) Асинхронный Телеграм-бот, который переводит запросы естественного языка в SQL для базы данных (https://github.com/Demiat/quest_to_sql.git)
+1) Сайт рецептов на Django c хорошо проработанной админкой: https://dvm.zapto.org (https://github.com/Demiat/foodgram)
+2) Асинхронный Телеграм-бот, который переводит запросы естественного языка в SQL для базы данных (https://github.com/Demiat/quest_to_sql.git)
+3) Синхронный Телеграм-бот, рабочий прототип @DemmiatBot (https://github.com/Demiat/commtobot). Это был первый пет-проект мой.
+4) В разработке AIOHTTP server c документацией OpenAPI, логированием запросов и тестами (https://github.com/Demiat/AIO)
+
+Также 6-месячный коммерческий проект на Django, по работе с которым можно ознакомиться в резюме: https://spb.hh.ru/resume/b01bb769ff0dffcbc70039ed1f48366b385374
